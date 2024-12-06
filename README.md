@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm OS-Scratch, also known as georgek0 on the Scratch community, and am a talented software developer exceling in multiple programming languages such as Python, VB, HTML and Scratch.
 <!--
 **OS-Scratch/OS-Scratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## My achievments
 [![trophy](https://github-profile-trophy.vercel.app/?username=os-scratch)](https://github.com/ryo-ma/github-profile-trophy)
