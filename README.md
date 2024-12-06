@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=os-scratch)](https://github.com/ryo-ma/github-profile-trophy)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OS-Scratch)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OS-Scratch&theme=light&background=fff000)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OS-Scratch&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
