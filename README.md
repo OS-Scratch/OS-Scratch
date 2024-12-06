@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My achievments
+## My achievments and stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=os-scratch)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGithubUsername)
+<img src="https://komarev.com/ghpvc/?username=OS-scratch&style=flat-square&color=blue" alt=""/>
